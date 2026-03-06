@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\source\repos\Parcial1Programacion1G1\Parcial1Programacion1G2\bin\Debug\Parcial1Programacion1G2.exe.config
+C:\Users\MINEDUCYT\source\repos\Parcial1Programacion1G1\Parcial1Programacion1G2\bin\Debug\Parcial1Programacion1G2.exe
+C:\Users\MINEDUCYT\source\repos\Parcial1Programacion1G1\Parcial1Programacion1G2\bin\Debug\Parcial1Programacion1G2.pdb
+C:\Users\MINEDUCYT\source\repos\Parcial1Programacion1G1\Parcial1Programacion1G2\obj\Debug\Parcial1Programacion1G2.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Parcial1Programacion1G1\Parcial1Programacion1G2\obj\Debug\Parcial1Programacion1G2.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Parcial1Programacion1G1\Parcial1Programacion1G2\obj\Debug\Parcial1Programacion1G2.exe
+C:\Users\MINEDUCYT\source\repos\Parcial1Programacion1G1\Parcial1Programacion1G2\obj\Debug\Parcial1Programacion1G2.pdb
